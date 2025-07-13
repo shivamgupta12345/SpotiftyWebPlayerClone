@@ -28,9 +28,11 @@ This project replicates the UI and basic structure of the official Spotify web i
 ## 📸 Preview
 
 ![Project Screenshot](./assets/card1img.jpeg)  
-> *Add more screenshots if needed (optional)*
 
----
+## 🌐 Live Demo
+
+▶️ [Click here to view the live project](https://github.com/shivamgupta12345/SpotiftyWebPlayerClone/deployments/github-pages)
+
 
 ## 📁 Folder Structure
 
